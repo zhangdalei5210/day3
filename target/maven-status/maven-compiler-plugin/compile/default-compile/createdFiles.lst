@@ -1,0 +1,6 @@
+net\work\service\StuServiceI.class
+net\work\pojo\Stu.class
+net\work\service\impl\StuServiceImpl.class
+net\work\contorller\StuController.class
+net\work\mapper\StuMapper.class
+net\work\servlet\StuServlet.class

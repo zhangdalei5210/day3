@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:19:53:31 +0800] "GET / HTTP/1.1" 200 52 http-bio-8081-exec-1 957
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:19:53:31 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-3 27
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:19:54:35 +0800] "GET /students/queryAllStu HTTP/1.1" 404 981 http-bio-8081-exec-5 511
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:20:01:35 +0800] "GET / HTTP/1.1" 200 52 http-bio-8081-exec-1 140
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:20:01:40 +0800] "GET /students/queryAllStu HTTP/1.1" 404 981 http-bio-8081-exec-3 500
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:20:01:42 +0800] "GET /students/queryAllStu HTTP/1.1" 404 981 http-bio-8081-exec-4 5
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:20:02:44 +0800] "GET /students/queryAllStu HTTP/1.1" 200 1119 http-bio-8081-exec-1 1891
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:20:02:44 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-3 7
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:20:02:48 +0800] "GET /students/queryAllStu HTTP/1.1" 200 1119 http-bio-8081-exec-4 9

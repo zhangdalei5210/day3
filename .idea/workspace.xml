@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="461c6c6c-2625-42f1-9775-c509351a4ef4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/work/contorller/StuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/work/mapper/StuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/work/pojo/Stu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/work/service/StuServiceI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/work/service/impl/StuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/work/servlet/StuServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/net/work/mapper/StuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jqPaginator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-3.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StuServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/work/contorller/StuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/work/mapper/StuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/work/mapper/StuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/work/pojo/Stu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/work/service/StuServiceI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/work/service/impl/StuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/work/servlet/StuServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-trans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/net/work/contorller/StuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/net/work/mapper/StuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/net/work/mapper/StuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/net/work/pojo/Stu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/net/work/service/StuServiceI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/net/work/service/impl/StuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/net/work/servlet/StuServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/classes/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/aspectjweaver-1.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/druid-1.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/javax.servlet.jsp.jstl-jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/jstl-jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/lombok-1.16.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/mybatis-spring-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/js/jqPaginator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/js/jquery-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/js/jquery-3.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/day3/js/jquery.pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-02-04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-02-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/list_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/list_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/list_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/list_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../TOOLS/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHTt6RLOGqeiAVZDSOB8pdv7bX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA137\works\day3\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA137\works\day3\src\main\resources\spring" />
+      <recent name="D:\JAVA137\works\day3\src\main\webapp" />
+      <recent name="D:\JAVA137\works\day3\src\test\java" />
+      <recent name="D:\JAVA137\works\day3\src\main\java\net\work" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test.queryAll">
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.queryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="queryAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.queryAll" />
+        <item itemvalue="JUnit.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="461c6c6c-2625-42f1-9775-c509351a4ef4" name="Default Changelist" comment="" />
+      <created>1580702231207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580702231207</updated>
+      <workItem from="1580702236205" duration="4206000" />
+      <workItem from="1580706893090" duration="437000" />
+      <workItem from="1580712546256" duration="9468000" />
+      <workItem from="1580724882399" duration="694000" />
+      <workItem from="1580789043605" duration="1476000" />
+      <workItem from="1580790549919" duration="323000" />
+      <workItem from="1580790904407" duration="159000" />
+      <workItem from="1580791092841" duration="91000" />
+      <workItem from="1580791211656" duration="2136000" />
+      <workItem from="1580793668862" duration="2816000" />
+      <workItem from="1580798292599" duration="6731000" />
+      <workItem from="1580814863029" duration="1217000" />
+      <workItem from="1580816198172" duration="1457000" />
+      <workItem from="1580877089903" duration="1298000" />
+      <workItem from="1581058143712" duration="1424000" />
+      <workItem from="1581297188689" duration="13000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="256" width="1092" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580817061988">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="348" y="256" width="1092" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580817061988" />
+    <state x="631" y="382" key="#com.intellij.ide.util.MemberChooser" timestamp="1580798475242">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="631" y="382" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1580798475242" />
+    <state x="822" y="174" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580789313715">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="822" y="174" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580789313715" />
+    <state x="1073" y="437" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580794890922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1073" y="437" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580794890922" />
+    <state x="1624" y="405" key="CommitChangelistDialog2" timestamp="1581319517234">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1624" y="405" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1581319517234" />
+    <state x="980" y="450" key="FileChooserDialogImpl" timestamp="1581319332619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="980" y="450" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581319332619" />
+    <state width="1590" height="332" key="GridCell.Tab.0.bottom" timestamp="1581314139570">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1590" height="332" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581314139570" />
+    <state width="1590" height="332" key="GridCell.Tab.0.center" timestamp="1581314139569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1590" height="332" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581314139569" />
+    <state width="1590" height="332" key="GridCell.Tab.0.left" timestamp="1581314139569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1590" height="332" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581314139569" />
+    <state width="1590" height="332" key="GridCell.Tab.0.right" timestamp="1581314139569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1590" height="332" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581314139569" />
+    <state x="672" y="391" key="Maven.ArtifactSearchDialog" timestamp="1580796056643">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="672" y="391" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580796056643" />
+    <state x="615" y="273" width="998" height="708" key="SettingsEditor" timestamp="1581318349197">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="615" y="273" width="998" height="708" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581318349197" />
+    <state x="516" y="532" key="com.intellij.ide.util.TipDialog" timestamp="1581297188936">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="516" y="532" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581297188936" />
+  </component>
+</project>
